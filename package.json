@@ -1,0 +1,10 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "A browser tic-tac-toe game with an unbeatable minimax AI.",
+  "private": true,
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
